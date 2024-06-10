@@ -1,0 +1,22 @@
+name: getx_deep_links
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  app_links: ^3.5.1
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  navigation_history_observer: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
